@@ -1,0 +1,19 @@
+{
+  "name": "node_express_fcc_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeluissoto/node_express_study_notebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeluissoto/node_express_study_notebook/issues"
+  },
+  "homepage": "https://github.com/jorgeluissoto/node_express_study_notebook#readme"
+}
