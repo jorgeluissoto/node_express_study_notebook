@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jorgeluissoto/node_express_study_notebook/issues"
   },
-  "homepage": "https://github.com/jorgeluissoto/node_express_study_notebook#readme"
+  "homepage": "https://github.com/jorgeluissoto/node_express_study_notebook#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
